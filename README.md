@@ -1,7 +1,11 @@
-# Our Sem 1 Assignment- Make a simple search engine
+# Our Sem 1 Assignment- Make a simple search engine "Googol"
 ### Credit to my teammates!
-Thanks to Fahad, Yong Ming, Wei Hao and Srija for contributing to the project so we can have this wonderful search engine presented to our 
-lecturer.
+Team members:
+-He Lin
+-Fahad
+-Wei Hao
+-Srija
+
 <br/>
 This search engine can only perform simple search based on certain keywords. 
 >To try, go to GOOGOL.java file, run it and type "shop" into the search box.
